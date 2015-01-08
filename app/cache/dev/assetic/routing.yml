@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: 'C:\users\al-go_000\Documents\NetBeansProjects\test\app/config/routing_dev.yml'
